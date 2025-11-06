@@ -1,0 +1,7 @@
+pulp
+requests
+pandas
+tabulate
+numpy
+matplotlib
+streamlit
