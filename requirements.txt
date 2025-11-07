@@ -1,1 +1,7 @@
-streamlit==1.40.1
+pulp
+requests
+pandas
+tabulate
+numpy
+matplotlib
+streamlit
